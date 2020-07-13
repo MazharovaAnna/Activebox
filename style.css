@@ -238,7 +238,7 @@ p {
   margin-bottom: 15px;
 }
 .team__text {
-  margin: 20px;
+  /* margin: 20px; */
   font-size: 14px;
   color: #6c7279;
   line-height: 1.5;
@@ -279,7 +279,6 @@ p {
   background-color: #53354a;
   overflow: hidden;
 }
-
 .reviews__item {
   display: flex;
   flex-wrap: wrap;
